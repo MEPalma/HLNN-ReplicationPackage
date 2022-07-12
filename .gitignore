@@ -1,0 +1,17 @@
+.DS_Store
+build/
+bin/
+__pycache__/
+
+.idea/
+.classpath
+.gradle/
+.project
+.settings/
+
+raw/
+oracle/
+folds/
+foldscache/
+
+
