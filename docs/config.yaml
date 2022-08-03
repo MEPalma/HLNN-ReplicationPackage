@@ -13,7 +13,7 @@ menu:
       url: "https://github.com/MEPalma/HLNN-ReplicationPackage"
       weight: 1
     - name: "💽 Data"
-      url: "https://zenodo.org/record/zenodo.6949491"
+      url: "https://doi.org/10.5281/zenodo.6949491"
       weight: 2
 
 params:
