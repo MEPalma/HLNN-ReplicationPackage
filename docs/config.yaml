@@ -12,7 +12,7 @@ menu:
     - name: "⬇️ Source Code"
       url: "https://github.com/MEPalma/HLNN-ReplicationPackage"
       weight: 1
-    - name: "⬇️ Data"
+    - name: "💽 Data"
       url: "https://zenodo.org/record/zenodo.6949491"
       weight: 2
 
