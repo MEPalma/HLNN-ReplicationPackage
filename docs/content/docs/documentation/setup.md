@@ -30,8 +30,8 @@ openjdk 16.0.2 2021-07-20
 OpenJDK Runtime Environment Corretto-16.0.2.7.1 (build 16.0.2+7)
 ```
 
-[Conda](https://conda.io) is used for the creation of the python environment. All of the packages
-and versions required are listed in the Conda environment file `environment.yml`.
+[Conda](https://conda.io) is used for the creation of the python environment.
+All of the packages and versions required are listed in the Conda environment file `environment.yml`.
 
 It should be noted that the project uses the machine's default Conda/Python environment.
 Furthermore, [PyTorch](https://pytorch.org)'s Cuda integration is installed by default. If this should not be available,

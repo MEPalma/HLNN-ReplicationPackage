@@ -23,7 +23,7 @@ Most of the logic is contained in `src/main/kotlin/preprocessor`, whereas the fo
 syntax highlighters are contained in `src/main/kotlin/highlighter`.
 
 The process of oracle generation is divided into two step: generation and cleaning. These are run for each
-language, hence, for example, with regards to Java, one would run the following two Gradle tasks:
+language, hence, for example, with regard to Java, one would run the following two Gradle tasks:
 
 ```shell
 ./gradlew JavaPreprocessor -Pargs="generateOracle"

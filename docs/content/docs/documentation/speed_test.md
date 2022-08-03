@@ -60,7 +60,7 @@ with the Gradle tasks for `Kotlin` and `Python3` being `KotlinEvaluator` and
 
 # Speed Results Structure
 
-All models are tested on all normalised and filtered files of the entire dataset (20000) and all the snippets of all the folds.
+All models are tested on all normalized and filtered files of the entire dataset (20000) and all the snippets of all the folds.
 The prediction delays are recorded in nanoseconds and repeated 30 times per file or snippet.
 
 - **Brute Force Model**

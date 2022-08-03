@@ -8,7 +8,7 @@ weight: 5
 Accuracy testing refers to the accuracy of producing syntax highlighting for each of
 the files in the test dataset of each training dataset folds, and the respective
 synthetic snippets. As the accuracy of the Brute Force method is always 1 (100%),
-accuracy per file is collected with regards to the neural networks approach and Pygments.
+accuracy per file is collected with regard to the neural networks approach and Pygments.
 
 ## Accuracy Testing -- Neural Networks & Pygments
 
@@ -39,7 +39,7 @@ These metrics are available for each trained DL model, the brute force approach 
 
 ## Accuracy
 
-For all normalised and filtered test files and snippets stored in each fold of the model's training process, test results list the accuracy of each model (3) with respect to each syntax highlighting coverage task (of which there are four of them: 28, 37, 55 and 66 respectively).
+For all normalized and filtered test files and snippets stored in each fold of the model's training process, test results list the accuracy of each model (3) with respect to each syntax highlighting coverage task (of which there are four of them: 28, 37, 55 and 66 respectively).
 
 File names are well-formed and carry information about the configuration of the model and coverage task.
 Filenames are of the form:
