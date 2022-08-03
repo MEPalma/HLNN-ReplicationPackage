@@ -18,11 +18,10 @@ In this replication package, we provide all the data and scripts we used in our 
 
 The repository is organized as follows:
 
-* [`/`](/) contains the scripts to build and execute the models
+* [`src/`](/src) contains the scripts to build and execute the models
 * [`docs/`](docs/) contains the source code for the website where we documented our scripts
 
 Additional resources can be found at: https://zenodo.org/record/zenodo.6949491
-
 In particular:
 
 * The input data that was used for the study
