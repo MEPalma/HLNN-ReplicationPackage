@@ -1,6 +1,6 @@
 # On-the-Fly Syntax Highlighting Using Neural Networks
 
-[![DOI](https://zenodo.org/badge/513081629.svg)](https://zenodo.org/badge/latestdoi/513081629)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6958312.svg)](https://doi.org/10.5281/zenodo.6958312)
 [![CC BY 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey.svg)](http://creativecommons.org/licenses/by-nc/4.0/)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2a8b2b32-0f90-40d9-a10e-80b246d91714/deploy-status)](https://app.netlify.com/sites/hlnn/deploys)
 
