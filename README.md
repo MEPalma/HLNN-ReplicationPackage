@@ -21,7 +21,7 @@ The repository is organized as follows:
 * [`src/`](/src) contains the scripts to build and execute the models
 * [`docs/`](docs/) contains the source code for the website where we documented our scripts
 
-Additional resources can be found at: https://zenodo.org/record/zenodo.6949491
+Additional resources can be found at: https://zenodo.org/record/zenodo.6949491.
 In particular:
 
 * The input data that was used for the study
