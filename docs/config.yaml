@@ -9,8 +9,10 @@ disableKinds:
 
 menu:
   after:
-    - name: "⬇️ GitHub"
+    - name: "⬇️ Source Code"
       url: "https://github.com/MEPalma/HLNN-ReplicationPackage"
+    - name: "⬇️ Data"
+      url: "https://zenodo.org/record/zenodo.6949491"
 
 params:
   BookLogo: logo.png

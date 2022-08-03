@@ -7,7 +7,7 @@ weight: 4
 
 All training of neural networks is carried out from the Python's project, once the
 cached training datasets have been created. The configuration of the training session
-is to be set in `src > main > python > highlighter > main.py`. By default, the process
+is to be set in `src/main/python/highlighter/main.py`. By default, the process
 tests all possible combinations of testing parameters. Hence, training can be launched
 by running the following from the Python's project root folder
 
@@ -17,8 +17,8 @@ python main.py
 
 During training, per fold, the same neural network is trained, validated and tested
 on each dataset fold (3). Hence, three PyTorch neural networks are save to disk
-in `src > main > python > saved_models`, and logs for the whole session in
-`src > main > python > save_model_losses`. Such generated files do also carry details
+in `src/main/python/saved_models`, and logs for the whole session in
+`src/main/python/save_model_losses`. Such generated files do also carry details
 regarding the configuration of the training session and are necessary for the execution
 of not only accuracy and speed tests, but also rendering of syntax highlighted files
 using trained neural networks. Files in `saved_models` and `save_model_losses` are named

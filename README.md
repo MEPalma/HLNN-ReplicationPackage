@@ -19,8 +19,15 @@ In this replication package, we provide all the data and scripts we used in our 
 The repository is organized as follows:
 
 * [`/`](/) contains the scripts to build and execute the models
-* [`data/`](data/) contains the data of the replication package
 * [`docs/`](docs/) contains the source code for the website where we documented our scripts
+
+Additional resources can be found at: https://zenodo.org/record/zenodo.6949491
+
+In particular:
+
+* The input data that was used for the study
+* The obtained detailed results
+* The resources to replicate this study by using this repository's code. The input data is formatted to be compatible with the provided code. The content of the file `HLNN-Resources.zip` has to be extracted in the folder `src/main/resources`
 
 ## :books: How to cite this dataset
 
