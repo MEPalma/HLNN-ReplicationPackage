@@ -3,7 +3,7 @@ title: ⚙️ Project setup
 weight: 1
 ---
 
-## Project Setup
+# ⚙️ Project Setup
 
 This project is written in Kotlin and Python. For the most part Python is utilised for:
 GitHub files mining, neural networks training and evaluation, test folds and snippets creation,

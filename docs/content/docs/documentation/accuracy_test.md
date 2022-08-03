@@ -3,7 +3,7 @@ title: 🔍 Accuracy testing
 weight: 5
 ---
 
-# Accuracy Testing
+# 🔍 Accuracy Testing
 
 Accuracy testing refers to the accuracy of producing syntax highlighting for each of
 the files in the test dataset of each training dataset folds, and the respective
