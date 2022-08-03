@@ -9,7 +9,7 @@ disableKinds:
 
 menu:
   after:
-    - name: "⬇️ Source Code"
+    - name: "💻 Source Code"
       url: "https://github.com/MEPalma/HLNN-ReplicationPackage"
       weight: 1
     - name: "💽 Data"
